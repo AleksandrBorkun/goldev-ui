@@ -1,0 +1,9 @@
+# .npmignore
+
+src/
+.babelrc
+stories/
+!dist/
+.env
+.storybook/
+storybook-static/

@@ -46,7 +46,7 @@ const ImageHolder = styled.div`
 `;
 
 export const Card = ({ title, description, iconType = "XP" }) => {
-  const SelectedIcon = IconTypes[iconType];
+  const SelectedIcon = IconTypes[iconType.toLocaleUpperCase()] || XPIcon;
 
   return (
     <CardHolder>
