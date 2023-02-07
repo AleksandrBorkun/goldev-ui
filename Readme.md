@@ -8,4 +8,4 @@
 
 ## Storybook
 
-Check componebts here [Link](https://aleksandrborkun.github.io/goldev-ui/storybook-static/?path=/story/example-basicinfo--default)
+Check components here [Link](https://aleksandrborkun.github.io/goldev-ui/storybook-static/?path=/story/example-basicinfo--default)
