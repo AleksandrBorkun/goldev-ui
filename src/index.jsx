@@ -6,7 +6,7 @@ import { HeaderMobile } from "./components/HeaderMobile";
 import * as Icons from "./components/Icons";
 import { ModuleBlock } from "./components/ModuleBlock";
 import { MultiLineFlex } from "./components/layout/MultiLineFlex";
-import { TwoByTwoGrid } from "./components/layout/TwoByTwoGrid";
+import { TwoByTwoGrid } from "./components/layout/Grid";
 
 export {
   Card,
