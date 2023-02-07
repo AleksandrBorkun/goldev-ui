@@ -1,4 +1,4 @@
-import { ModuleBlock } from "../components/ModuleBlock";
+import { ModuleBlock } from "../src/components/ModuleBlock";
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

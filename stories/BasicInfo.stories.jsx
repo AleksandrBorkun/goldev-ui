@@ -1,4 +1,4 @@
-import { BasicInfo } from "../components/BasicInfo";
+import { BasicInfo } from "../src/components/BasicInfo";
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

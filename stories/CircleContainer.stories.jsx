@@ -1,5 +1,5 @@
-import { CircleConteiner } from "../components/CircleContainer";
-import { MultiLineFlex } from "../components/layout/MultiLineFlex";
+import { CircleConteiner } from "../src/components/CircleContainer";
+import { MultiLineFlex } from "../src/components/layout/MultiLineFlex";
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

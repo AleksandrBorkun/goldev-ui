@@ -1,5 +1,5 @@
-import { Card } from "../components/Card";
-import { TwoByTwoGrid } from "../components/layout/Grid";
+import { Card } from "../src/components/Card";
+import { TwoByTwoGrid } from "../src/components/layout/Grid";
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

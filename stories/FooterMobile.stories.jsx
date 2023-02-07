@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { FooterMobile } from "../components/FooterMobile";
+import { FooterMobile } from "../src/components/FooterMobile";
 
 const DummyBG = styled.div`
   height: 150vh;

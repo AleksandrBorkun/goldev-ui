@@ -1,6 +1,6 @@
 {
   "name": "@obwebdev/goldev-library",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React components library for code learning app",
   "main": "dist/index.js",
   "author": "OB Web Dev",

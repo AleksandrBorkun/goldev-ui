@@ -1,6 +1,6 @@
-import { HeaderMobile } from "../components/HeaderMobile";
-import { FireIcon, MedalIcon } from "../components/Icons";
-import { H3 } from "../components/Typography";
+import { HeaderMobile } from "../src/components/HeaderMobile";
+import { FireIcon, MedalIcon } from "../src/components/Icons";
+import { H3 } from "../src/components/Typography";
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
